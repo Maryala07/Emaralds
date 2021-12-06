@@ -42,3 +42,18 @@ s.no|name|reg.no
 5|Rishika|h0
 6|bharghavi|f7
 7|meghana|94
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+~~This was mistaken text~~
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+@github/support What do you think about these updates?
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada
+
